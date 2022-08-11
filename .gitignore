@@ -1,3 +1,3 @@
 secret.txt
 .history/
-git commit --amend
+git commit --amend <= 削除
